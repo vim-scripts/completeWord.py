@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=44
+
+Completes the word under the cursor by scanning the current file and any imported Python modules that have source available.
